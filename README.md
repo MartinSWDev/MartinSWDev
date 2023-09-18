@@ -1,4 +1,5 @@
-![Twitter Header](https://user-images.githubusercontent.com/98239525/232041601-7fe3395b-c8f4-41f1-a46e-98861c26a921.png)
+![linkedall header ](https://github.com/MartinSWDev/MartinSWDev/assets/98239525/9545a7b7-1dc7-432f-8cec-fddd72a2a04f)
+
 
 <h3 align="center">
   Hi there! Welcome to my profile 
@@ -15,21 +16,34 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=martinswdev&left_color=grey&right_color=rgb(216,32,54)) -->
                 
     
-## About Me ##
+### :hammer_and_wrench: Currently Building: [LinkedAll](https://www.linkedall.online)
 
-- 👨🏻‍💻 #100DaysOfCode - ✅ Completed
+I'm currently working on a SaaS product called **LinkedAll**, designed to empower professional networking at events and groups.
 
-- 💜 Enjoy Building Discord Bots 🤖
+#### :bust_in_silhouette: **About LinkedAll**
 
-## Currently Learning ##
+LinkedAll is a web application that aims to transform how professionals interact in events or within organizations. It allows users to create lists that other attendees or members can join using their LinkedIn details. This provides a simplified, organized way to track who you've connected with and who you still need to connect with, all in one shared space.
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+#### :toolbox: **Tech Stack**
+- Frontend: NextJS Typescript, Tailwind CSS, HeadlessUI
+- Backend: Supabase
+- Webhooks: Supabase
+- Payment: Stripe API
+
+:link: **LinkedAll Links**
+- [Website](https://www.linkedall.online)
+- [Twitter](https://twitter.com/linkedallonline)
+- [LinkedIn](https://www.linkedin.com/company/linkedall-online)
+
+Feel free to check out the project and provide any feedback to [support@linkedall.online](mailto:support@linkedall.online)
 
 ## Experience Using ##
-
+![Nextjs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
