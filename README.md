@@ -16,7 +16,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=martinswdev&left_color=grey&right_color=rgb(216,32,54)) -->
                 
     
-### :hammer_and_wrench: Currently Building: [LinkedAll](https://www.linkedall.online)
+### :hammer: Currently Building: [LinkedAll](https://www.linkedall.online)
 
 I'm currently working on a SaaS product called **LinkedAll**, designed to empower professional networking at events and groups.
 
